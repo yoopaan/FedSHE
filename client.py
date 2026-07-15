@@ -7,7 +7,6 @@ import copy
 import resource
 import numpy as np
 
-import tenseal as ts
 from glob import glob
 from phe import paillier
 from torch import nn, autograd
