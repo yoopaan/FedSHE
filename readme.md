@@ -1,11 +1,11 @@
 
 # FedSHE
 
-FedSHE is a privacy-preserving federated learning framework based on homomorphic encryption. It supports both Paillier and CKKS encryption schemes and provides performance analysis and comparison.
+[FedSHE](https://doi.org/10.1186/s42400-024-00232-w) is a privacy-preserving federated learning framework based on homomorphic encryption. It supports both Paillier and CKKS encryption schemes and provides performance analysis and comparison.
 
 ![FedSHE](./imgs/FL_HE_00.png)
 
-# Cite 
+# Cite This Paper
 
 If this work inspires or contributes to your paper or report, please consider citing our work.
 
@@ -23,7 +23,7 @@ If this work inspires or contributes to your paper or report, please consider ci
 ```
 
 
-# How to use
+# How TO USE
 
 # 1. Install requirements
 
